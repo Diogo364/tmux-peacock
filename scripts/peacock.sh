@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-TMUX_PEACOCK_DIR="$( cd "$(dirname "${BASH_SOURCE[0]}" )" && pwd)"
+TMUX_PEACOCK_DIR="$( cd "$(dirname "${BASH_SOURCE[0]}" )/.." && pwd)"
 TMUX_PEACOCK_COLORSCHEME_DIR="$TMUX_PEACOCK_DIR/resources"
 
 list_colorschemes() {
