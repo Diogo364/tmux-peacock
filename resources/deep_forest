@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+
+export PANEL_BG=#0F1F17	
+export PANEL_FG=#D1E7DD
